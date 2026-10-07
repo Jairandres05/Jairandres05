@@ -121,17 +121,9 @@ Módulos web y **aplicaciones móviles en Flutter** conectadas a un backend **PH
 
 ## 📊 Estadísticas de GitHub
 
+<!-- Generado por .github/workflows/metrics.yml en tu propio repo -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jairandres05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3DDC97&icon_color=3DDC97" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairandres05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3DDC97" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jairandres05&theme=tokyonight&hide_border=true&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jairandres05&theme=tokyo-night&hide_border=true&area=true&color=3DDC97&line=3DDC97&point=ffffff" width="95%" />
+  <img src="github-metrics.svg" alt="Estadísticas de GitHub" />
 </p>
 
 ---
