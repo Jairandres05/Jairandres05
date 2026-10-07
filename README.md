@@ -6,7 +6,7 @@
 ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e5e,100:2c5364&height=210&section=header&text=Jair%20Duarte%20Vergara&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%26%20DevOps%20Junior%20·%20Chillán,%20Chile%20🇨🇱&descAlignY=58&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e5e,100:2c5364&height=210&section=header&text=Jair%20Duarte%20Vergara&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20y%20DevOps%20Junior%20·%20Chillán,%20Chile%20🇨🇱&descAlignY=58&descSize=18" alt="banner" />
 </p>
 
 <p align="center">
