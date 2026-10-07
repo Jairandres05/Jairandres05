@@ -2,7 +2,7 @@
   README de perfil de GitHub — Jair Duarte Vergara
   1. Crea un repositorio PÚBLICO con exactamente tu nombre de usuario.
   2. Pega este archivo como README.md en la raíz.
-  3. Reemplaza TU_USUARIO por tu usuario de GitHub (Ctrl+H).
+  3. Reemplaza Jairandres05 por tu usuario de GitHub (Ctrl+H).
 ============================================================= -->
 
 <p align="center">
@@ -17,9 +17,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jair-duartevergara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Jairandres05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:jairvergara1007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Disponible_para_oportunidades-3DDC97?style=for-the-badge&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=134e5e&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=Jairandres05&style=for-the-badge&color=134e5e&label=VISITAS" />
 </p>
 
 ---
@@ -121,16 +122,16 @@ Módulos web y **aplicaciones móviles en Flutter** conectadas a un backend **PH
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3DDC97&icon_color=3DDC97" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3DDC97" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jairandres05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3DDC97&icon_color=3DDC97" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairandres05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=3DDC97" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97" />
+  <img src="https://streak-stats.demolab.com?user=Jairandres05&theme=tokyonight&hide_border=true&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&area=true&color=3DDC97&line=3DDC97&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jairandres05&theme=tokyo-night&hide_border=true&area=true&color=3DDC97&line=3DDC97&point=ffffff" width="95%" />
 </p>
 
 ---
@@ -140,8 +141,8 @@ Módulos web y **aplicaciones móviles en Flutter** conectadas a un backend **PH
 <!-- Requiere el workflow .github/workflows/snake.yml -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jairandres05/Jairandres05/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Jairandres05/Jairandres05/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
